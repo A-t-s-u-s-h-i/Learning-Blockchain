@@ -6,3 +6,6 @@ node_modules/
 *.exe
 *.o
 *.so
+
+.vscode-test
+.vscode
