@@ -18,6 +18,8 @@
     "express": "^4.17.1",
     "nodeman": "^1.1.2",
     "nodemon": "^2.0.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "sha256": "^0.2.0",
     "uuid": "^8.3.2"
   }
